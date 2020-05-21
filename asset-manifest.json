@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project-proposal/static/css/main.89d62412.chunk.css",
+    "main.js": "/project-proposal/static/js/main.50cfda92.chunk.js",
+    "main.js.map": "/project-proposal/static/js/main.50cfda92.chunk.js.map",
+    "runtime-main.js": "/project-proposal/static/js/runtime-main.b50fd72c.js",
+    "runtime-main.js.map": "/project-proposal/static/js/runtime-main.b50fd72c.js.map",
+    "static/js/2.4dabe6d5.chunk.js": "/project-proposal/static/js/2.4dabe6d5.chunk.js",
+    "static/js/2.4dabe6d5.chunk.js.map": "/project-proposal/static/js/2.4dabe6d5.chunk.js.map",
+    "index.html": "/project-proposal/index.html",
+    "precache-manifest.f765703e1f3aa8358e95b2ad200ac2eb.js": "/project-proposal/precache-manifest.f765703e1f3aa8358e95b2ad200ac2eb.js",
+    "service-worker.js": "/project-proposal/service-worker.js",
+    "static/css/main.89d62412.chunk.css.map": "/project-proposal/static/css/main.89d62412.chunk.css.map",
+    "static/js/2.4dabe6d5.chunk.js.LICENSE.txt": "/project-proposal/static/js/2.4dabe6d5.chunk.js.LICENSE.txt",
+    "static/media/Inn.png": "/project-proposal/static/media/Inn.5d04017b.png",
+    "static/media/Side-banner.png": "/project-proposal/static/media/Side-banner.a5ae2b22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b50fd72c.js",
+    "static/js/2.4dabe6d5.chunk.js",
+    "static/css/main.89d62412.chunk.css",
+    "static/js/main.50cfda92.chunk.js"
+  ]
+}
